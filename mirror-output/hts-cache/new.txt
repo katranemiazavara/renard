@@ -1,0 +1,2 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:49:54	119/119	---MC-	307	error ('Temporary%20Redirect')	text/html	date:Fri,%2009%20Jun%202023%2017:49:53%20GMT	{{SITE_URL}}/	mirror-output/itsairborne.com/index.html	(from )

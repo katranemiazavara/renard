@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.itsairborne.com	TRUE	/	FALSE	1999999999	__cfruid	7b20ff41ff6c8400246a37f656d30e42da6f7d4c-1686332993
+itsairborne.com	TRUE	/	FALSE	1999999999	SameSite	None
+
